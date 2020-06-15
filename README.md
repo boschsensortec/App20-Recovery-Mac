@@ -13,7 +13,7 @@ brew install libusb dfu-util
 
 ## Board references
 
-![ApplicationBoard20Recovery](Application%20Board%202.0%20Recovery.png "Application Board 2.0 Recovery")
+![ApplicationBoard20Recovery](Application%20Board%202.0%20Recovery.jpg "Application Board 2.0 Recovery")
 
 ## Steps
 
