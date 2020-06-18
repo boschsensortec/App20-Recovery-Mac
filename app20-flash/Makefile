@@ -1,4 +1,4 @@
-COINES_INSTALL_PATH ?= ../../..
+COINES_INSTALL_PATH ?= .
 
 EXAMPLE_FILE = app20-flash.c
 
